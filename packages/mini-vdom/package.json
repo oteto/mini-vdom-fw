@@ -1,13 +1,13 @@
 {
   "name": "mini-vdom",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "mini vdom framework",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "oteto",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.8.4"
